@@ -72,5 +72,5 @@ Vect_to_Raster/
 - Update the corresponding FILE_NAME in the script.  
   在脚本中修改对应的文件名
 - Run the program.  
+  运行程序
 
-运行程序
