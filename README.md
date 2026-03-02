@@ -1,4 +1,4 @@
-# Vect_to_Raster
+# Vect_to_Raster 无参考全球数据转TIFF图像
 
 **Transform coordinate-free 1D vectors into geo-referenced TIFF files.**  
 **本工具用于将无参考信息的数据转换为 TIFF 文件，还原没有参考坐标系和分辨率的全球空间数据。**
@@ -72,4 +72,5 @@ Vect_to_Raster/
 - Update the corresponding FILE_NAME in the script.  
   在脚本中修改对应的文件名
 - Run the program.  
+
 运行程序
